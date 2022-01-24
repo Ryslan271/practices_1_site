@@ -1,0 +1,41 @@
+body{
+    padding: 0;
+    margin: auto;
+    padding: 0;
+
+}
+
+.card {
+    margin-top: 20px;
+    position: initial;
+}
+
+.nav {
+    padding: 10px;
+    margin: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+.row {
+    padding-top: 3em;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+
+.col-sm {
+    text-align: center;
+    margin-left: 4.5%;
+}
+
+#text1 {
+    font-family: "segoe print";
+    font: 600;
+    font-size: 2em;
+    margin-left: 4.5%;
+    padding-top: 3em;
+    background-color: rgb(238, 253, 253);
+    margin: 0 auto;
+}
